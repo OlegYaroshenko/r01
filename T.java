@@ -28,7 +28,4 @@ import static j.u.CopyOnWriteArrayList.COWIterator;
 
 public class T {
 
-
-
-
 }
